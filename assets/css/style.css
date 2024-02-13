@@ -97,3 +97,12 @@ body h2,h3{
     max-height: 10rem;
     max-width: auto;
 }
+
+#contacto{
+    padding-top: 30px;
+    padding-bottom: 100px;
+}
+
+footer .row{
+    min-height: 5rem;
+}
