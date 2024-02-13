@@ -62,3 +62,21 @@ body h2,h3{
     width: 100%;
     max-height: 60rem;
 }
+
+.card {
+    background-color: black;
+    margin-bottom: 30px;
+}
+
+.card-text {
+    color: white;
+    text-align: justify;
+}
+
+#quienes{
+    padding-top: 20px;
+}
+
+#quienes .card {
+    max-width: 25rem;
+}
