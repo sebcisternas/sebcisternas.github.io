@@ -81,3 +81,19 @@ body h2,h3{
     max-width: 25rem;
 }
 
+
+#destacados{
+    padding-top: 70px;
+ }
+
+#destacados .card {
+    max-width: 20rem;
+    border-radius: 50%;
+    
+
+}
+
+#destacados .card img {
+    max-height: 10rem;
+    max-width: auto;
+}
