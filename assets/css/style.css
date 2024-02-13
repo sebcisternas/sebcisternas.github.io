@@ -106,3 +106,29 @@ body h2,h3{
 footer .row{
     min-height: 5rem;
 }
+
+@media (max-width: 576px) {
+    .navbar {
+        max-width: 300px;
+        max-height: 800px;
+        font-size: 8px; 
+        border-color: white;
+    }
+
+    .navbar img{
+        max-width: 25px;
+
+    }
+
+    .navbar-brand {
+        font-size: 18px; 
+    }
+
+    .navbar-nav .nav-link {
+        font-size: 14px; 
+    }
+
+    #destacados{
+        padding-top: 0;
+    }
+}
